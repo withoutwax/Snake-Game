@@ -3,8 +3,6 @@ The is a simple Snake Game.
 
 Created with Java language in Processing.
 
-You can navigate easily and also change theme accordingly
-
 Used: **Java, Processing IDE**
 
 ## Keys
