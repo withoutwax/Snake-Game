@@ -36,3 +36,9 @@ RIGHT
 **5** - Theme05
 
 *Use arrow keys on the keyboard as controls*
+
+
+
+## Play
+
+You can visit the link to play the game: [openprocessing.org/sketch/426667](https://www.openprocessing.org/sketch/426667)
